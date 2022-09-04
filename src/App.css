@@ -1,0 +1,25 @@
+body{
+  background-color: antiquewhite;
+}
+
+.presentation{
+  background-color: rgb(104, 104, 104);
+  height: 80vh;
+}
+
+.center{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  height: 65vh;
+}
+
+
+.center2{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  height: 65vh;
+}
