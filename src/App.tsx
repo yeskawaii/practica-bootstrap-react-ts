@@ -10,7 +10,6 @@ import {projects} from './info';
 
 
 function App() {
-  console.log(projects);
 
   return (
         <>
