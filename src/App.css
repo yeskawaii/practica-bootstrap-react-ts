@@ -1,10 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Bitter:ital,wght@1,300&family=Indie+Flower&family=Pacifico&family=Rajdhani:wght@500&display=swap');
+
+
 body{
   background-color: antiquewhite;
 }
+.nav-color{
+  background: black;
+}
+
+h3{
+  font-family: 'Rajdhani', sans-serif;
+}
+
+h1{
+  font-family: 'Aboreto', cursive;
+  font-weight: bolder;
+  font-size: 5vh;
+}
+
+.mini-card{
+  background-color: white;
+  border-radius: 5vh;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 
 .presentation{
-  background-color: rgb(104, 104, 104);
-  height: 80vh;
+  background-color: #F5F5F5;
+  height: 65vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10vh 30vh;
+}
+
+.font-style{
+  color: rgb(252, 164, 81) !important;
+  font-family: 'Pacifico', cursive;
+  font-size: 3vh !important;
+}
+
+.fondo{
+  height: 15vh;
+  background-size:contain;
+  background-image: url("https://i.pinimg.com/564x/fe/d6/3d/fed63d4a23940409c6abaee56a81d91b.jpg");
 }
 
 .center{
@@ -12,7 +56,7 @@ body{
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
-  height: 65vh;
+  height: 80vh;
 }
 
 

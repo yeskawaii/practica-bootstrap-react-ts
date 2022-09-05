@@ -14,29 +14,32 @@ function App() {
   return (
         <>
 
-        
-
-          <Navbar bg="dark" variant="dark">
-            <Container>
-              <Navbar.Brand href="#home">Navbar</Navbar.Brand>
+        <header>
+        <div className="fondo">
+          
+        </div>
+        <Navbar className="nav-color">
+            <Container >
+              <Navbar.Brand href="#home" className="font-style">Navbar</Navbar.Brand>
               <Nav className="#">
-                <Nav.Link href="#home">Home</Nav.Link>
-                <Nav.Link href="#features">Features</Nav.Link>
-                <Nav.Link href="#pricing">Pricing</Nav.Link>
+                <Nav.Link href="#home" className="font-style">Home</Nav.Link>
+                <Nav.Link href="#features" className="font-style">Features</Nav.Link>
+                <Nav.Link href="#pricing" className="font-style">Pricing</Nav.Link>
               </Nav>
             </Container>
           </Navbar>
+        </header>
           
         <div className="presentation">
-          <h1>Julio Yescas</h1>
-          <h3>ing sistemas specialist on web development</h3>
-          <p>call me</p>
-
+          <div className="mini-card">
+           <h1>Julio Yescas</h1>
+           <h3>ing sistemas specialist on web development</h3>
+          </div>
         </div>
         <div className="center">
           <div>
           <h2>about me</h2>
-          <p>conoceme mas, con mas informacion que bla bla</p>
+          <p>unofficial ing. in computational system, specialist on web development <br></br>with c1 on english and n5 in japanese</p>
           </div>
           <div>
             <img src="https://i.pinimg.com/564x/55/32/a3/5532a35c10e7558b3eed821cd8978aa4.jpg" alt="zorrito"/>
@@ -44,9 +47,9 @@ function App() {
         </div>
         
 
-    <div className="center2">
+    <div className="mini-card">
       <h2>projects</h2>
-      <h4>projects description</h4>
+      <h4>just a little of my work</h4>
     </div>
 
     
