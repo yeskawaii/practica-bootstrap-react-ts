@@ -26,6 +26,13 @@ export const projects = [
         name: "netfliz",
         description: "esta pagina es para ver videitos",
         link: "https://www.netflix.com/mx/login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fbrowse"
+    },
+    {
+        Key: "5",
+        image:"https://i.pinimg.com/564x/82/14/07/8214071000196cebe078ceae5eb2f592.jpg",
+        name: "netfliz",
+        description: "esta pagina es para ver videitos",
+        link: "https://www.netflix.com/mx/login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fbrowse"
     }
 
 
