@@ -22,10 +22,10 @@ function App() {
               Navbar
             </Navbar.Brand>
             <Nav className="#">
-              <Nav.Link href="www.linkedin.com" className="font-style">
+              <Nav.Link href="https://www.linkedin.com/" className="font-style">
                 Home
               </Nav.Link>
-              <Nav.Link href="facebook.com" className="font-style">
+              <Nav.Link href="https://facebook.com/" className="font-style">
                 Features
               </Nav.Link>
               <Nav.Link href="https://twitter.com/" className="font-style">
