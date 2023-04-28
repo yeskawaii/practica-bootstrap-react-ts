@@ -15,7 +15,7 @@ export const projects = [
     name: "netfliz",
     description: "esta pagina es para ver videitos",
     link: "https://www.youtube.com/",
-    alternativo: "zorrito",
+    alternativo: "zorrito2",
   },
   {
     Key: "3",
