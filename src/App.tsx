@@ -15,17 +15,20 @@ function App() {
         <div className="fondo"></div>
         <Navbar className="nav-color">
           <Container>
-            <Navbar.Brand href="#home" className="font-style">
+            <Navbar.Brand
+              href="https://practica-bootstrap-react-ts-ten.vercel.app/"
+              className="font-style"
+            >
               Navbar
             </Navbar.Brand>
             <Nav className="#">
-              <Nav.Link href="#home" className="font-style">
+              <Nav.Link href="www.linkedin.com" className="font-style">
                 Home
               </Nav.Link>
-              <Nav.Link href="#features" className="font-style">
+              <Nav.Link href="facebook.com" className="font-style">
                 Features
               </Nav.Link>
-              <Nav.Link href="#pricing" className="font-style">
+              <Nav.Link href="https://twitter.com/" className="font-style">
                 Pricing
               </Nav.Link>
             </Nav>

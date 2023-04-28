@@ -6,7 +6,7 @@ export const projects = [
     name: "netfliz",
     description: "esta pagina es para ver videitos",
     link: "https://www.netflix.com/mx/login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fbrowse",
-    alternativo: "dibujo de una imagen",
+    alternativo: "imagen de netflix",
   },
   {
     Key: "2",
@@ -15,7 +15,7 @@ export const projects = [
     name: "netfliz",
     description: "esta pagina es para ver videitos",
     link: "https://www.youtube.com/",
-    alternativo: "dibujo de una imagen",
+    alternativo: "zorrito",
   },
   {
     Key: "3",
@@ -24,7 +24,7 @@ export const projects = [
     name: "netfliz",
     description: "esta pagina es para ver videitos",
     link: "https://www.pinterest.com.mx/",
-    alternativo: "dibujo de una imagen",
+    alternativo: "gatito",
   },
   {
     Key: "4",
@@ -33,7 +33,7 @@ export const projects = [
     name: "netfliz",
     description: "esta pagina es para ver videitos",
     link: "https://www.amazon.com/",
-    alternativo: "dibujo de una imagen",
+    alternativo: "muñeca",
   },
   {
     Key: "5",
@@ -42,6 +42,6 @@ export const projects = [
     name: "netfliz",
     description: "esta pagina es para ver videitos",
     link: "https://www.mercadolibre.com.mx/",
-    alternativo: "dibujo de una imagen",
+    alternativo: "gato en taza",
   },
 ];
